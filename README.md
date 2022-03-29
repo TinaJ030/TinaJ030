@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TinaJ030
+- 👋 Hi, I’m Tina
 - 👀 I’m interested in coding and pink~
 - 🌱 I’m currently learning software development
 - 💞️ I’m looking to collaborate on not sure yet 
